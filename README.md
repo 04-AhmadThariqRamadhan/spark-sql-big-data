@@ -31,15 +31,21 @@
 
 # SS
 1. Analitik dengan DataFrame
+
+
 ![Screensots](SS/1.jpeg)
 ![Screensots](SS/2.jpeg)
 ![Screensots](SS/22.jpeg)
 
 2. Membuat DataFrame dari Database Eksternal
+
+
 ![Screensots](SS/3.jpeg)
 ![Screensots](SS/33.jpeg)
 
 3. Mengkonversi DataFrame ke RDDs
+
+
 ![Screensots](SS/4.jpeg)
 
 4. Membuat Datasets
@@ -49,18 +55,28 @@
 ![Screensots](SS/6.jpeg)
 
 5. Mengkonversi DataFrame ke Datasets dan Sebaliknya
+
+
 ![Screensots](SS/6.jpeg)
 
 6. Mengakses Metadata Menggunakan Catalog
+
+
 ![Screensots](SS/7.jpeg)
 ![Screensots](SS/77.jpeg)
 
 7. Bekerja dengan Berkas Teks
+
+
 ![Screensots](SS/8.jpeg)
 
 8. Bekerja dengan Berkas JSON
+
+
 ![Screensots](SS/9.jpeg)
 
 9. Bekerja dengan Berkas CSV
+
+
 ![Screensots](SS/10.jpeg)
 ![Screensots](SS/101.jpeg)
